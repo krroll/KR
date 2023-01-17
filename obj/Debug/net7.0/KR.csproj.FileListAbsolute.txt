@@ -1,0 +1,15 @@
+O:\Документы\Сайт\diagrama\gb\KR\bin\Debug\net7.0\KR.exe
+O:\Документы\Сайт\diagrama\gb\KR\bin\Debug\net7.0\KR.deps.json
+O:\Документы\Сайт\diagrama\gb\KR\bin\Debug\net7.0\KR.runtimeconfig.json
+O:\Документы\Сайт\diagrama\gb\KR\bin\Debug\net7.0\KR.dll
+O:\Документы\Сайт\diagrama\gb\KR\bin\Debug\net7.0\KR.pdb
+O:\Документы\Сайт\diagrama\gb\KR\obj\Debug\net7.0\KR.csproj.AssemblyReference.cache
+O:\Документы\Сайт\diagrama\gb\KR\obj\Debug\net7.0\KR.GeneratedMSBuildEditorConfig.editorconfig
+O:\Документы\Сайт\diagrama\gb\KR\obj\Debug\net7.0\KR.AssemblyInfoInputs.cache
+O:\Документы\Сайт\diagrama\gb\KR\obj\Debug\net7.0\KR.AssemblyInfo.cs
+O:\Документы\Сайт\diagrama\gb\KR\obj\Debug\net7.0\KR.csproj.CoreCompileInputs.cache
+O:\Документы\Сайт\diagrama\gb\KR\obj\Debug\net7.0\KR.dll
+O:\Документы\Сайт\diagrama\gb\KR\obj\Debug\net7.0\refint\KR.dll
+O:\Документы\Сайт\diagrama\gb\KR\obj\Debug\net7.0\KR.pdb
+O:\Документы\Сайт\diagrama\gb\KR\obj\Debug\net7.0\KR.genruntimeconfig.cache
+O:\Документы\Сайт\diagrama\gb\KR\obj\Debug\net7.0\ref\KR.dll
